@@ -1,5 +1,7 @@
 # ub-python
 Resource location for Upward Bound Programming Foundations in Python, Summer 2018
 
-URL for Lecture Notes for Day 1 
-https://docs.google.com/presentation/d/1SPwE1jXwBzE66q_BT3ZmBab2-JIzNzHVGmj3iaLi4dQ/
+For students
+If you do not have access to the lab to do home-work, please use the online Python interpreter by visiting the following site:
+http://repl.it/languages/python3
+
